@@ -1,6 +1,6 @@
 > This is the Client - Create React App
 
-![This is the Project Thumbnail](./snap.png)
+![This is the Project Thumbnail](./snapshot.png)
 
 # Check node version
 
